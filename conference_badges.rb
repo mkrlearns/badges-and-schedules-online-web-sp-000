@@ -7,5 +7,5 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(name)
-  
+  "#{name.index}
 end
